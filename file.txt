@@ -1,3 +1,4 @@
 feature
 feature2
-feature3, added new features
+feature3, added, modified features;
+feature4
