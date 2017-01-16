@@ -1,4 +1,5 @@
-feature
+featuremod
 feature2
 feature3, added, modified features;
 feature4
+feature6
